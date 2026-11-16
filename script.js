@@ -14,4 +14,6 @@ const botoes = document.querySelectorAll("button");
                 texto.textContent--;
                 curtiu = false;
             }
-        
+        }
+    } 
+)  
